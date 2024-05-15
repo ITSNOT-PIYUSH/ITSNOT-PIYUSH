@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Piyush Mandal and I'm a Ml Engg from Goa</h2>
+<h2 align="left">Hi 👋! My name is Piyush Mandal and I'm a ML Engg from Goa</h2>
 
 ###
 
